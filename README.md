@@ -39,7 +39,7 @@ Este proyecto es una implementación gráfica del clásico juego del Ahorcado. E
 3. Run the following command / Ejecutá el siguiente comando:
 
 ```bash
-python Flujo.py
+python hangman.py
 
 How to Play / Cómo jugar
 Click any letter on the virtual keyboard / Hacé clic en cualquier letra del teclado virtual
